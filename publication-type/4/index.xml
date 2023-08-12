@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Yujia Lyu</title>
+    <link>https://YujiaLyu.github.io/publication-type/4/</link>
+      <atom:link href="https://YujiaLyu.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://YujiaLyu.github.io/media/icon_hu65a915bb538585c232735a818d34e461_39321_512x512_fill_lanczos_center_3.png</url>
+      <title>4</title>
+      <link>https://YujiaLyu.github.io/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>University of Iowa Parental Leave Survey Report</title>
+      <link>https://YujiaLyu.github.io/public_report/parental_leave/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://YujiaLyu.github.io/public_report/parental_leave/</guid>
+      <description>&lt;p&gt;Report can be found here: (&lt;a href=&#34;https://ppc.uiowa.edu/publications/university-iowa-parental-leave-survey-report%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ppc.uiowa.edu/publications/university-iowa-parental-leave-survey-report)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python | Yujia Lyu</title>
+    <link>https://YujiaLyu.github.io/tag/python/</link>
+      <atom:link href="https://YujiaLyu.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>Python</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://YujiaLyu.github.io/media/icon_hu65a915bb538585c232735a818d34e461_39321_512x512_fill_lanczos_center_3.png</url>
+      <title>Python</title>
+      <link>https://YujiaLyu.github.io/tag/python/</link>
+    </image>
+    
+    <item>
+      <title>The Triadic Standard Experimental Setting</title>
+      <link>https://YujiaLyu.github.io/project/three_person_experiment/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://YujiaLyu.github.io/project/three_person_experiment/</guid>
+      <description>&lt;div style =&#34;text-align: left&#34;&gt;
+&lt;p style=&#34;color: grey&#34;&gt;With Alison Bianchi and Inga Popovaite&lt;/p&gt;
+&lt;h3 id=&#34;project-background&#34;&gt;Project Background:&lt;/h3&gt;
+&lt;p&gt;Using python, we have constructed a experimental protocol allowing participants to interact with two other people and develop status hierarchy within the small group.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

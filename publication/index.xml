@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Yujia Lyu</title>
+    <link>https://YujiaLyu.github.io/publication/</link>
+      <atom:link href="https://YujiaLyu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://YujiaLyu.github.io/media/icon_hu65a915bb538585c232735a818d34e461_39321_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://YujiaLyu.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Social Psychology and Organizations</title>
+      <link>https://YujiaLyu.github.io/publication/social_psych_org/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://YujiaLyu.github.io/publication/social_psych_org/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiments and Status: The Dyad? The Triad? Or Both?</title>
+      <link>https://YujiaLyu.github.io/publication/sentiment_triad/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://YujiaLyu.github.io/publication/sentiment_triad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competence or Dominance?: A Quasi-Experimental Test of Sense of Control, Status and Power</title>
+      <link>https://YujiaLyu.github.io/publication/control_status/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://YujiaLyu.github.io/publication/control_status/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Film Review: Cults and Extreme Belief</title>
+      <link>https://YujiaLyu.github.io/publication/teach_review/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://YujiaLyu.github.io/publication/teach_review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

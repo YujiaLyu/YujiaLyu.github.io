@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sense of control | Yujia Lyu</title>
+    <link>https://YujiaLyu.github.io/tag/sense-of-control/</link>
+      <atom:link href="https://YujiaLyu.github.io/tag/sense-of-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sense of control</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://YujiaLyu.github.io/media/icon_hu65a915bb538585c232735a818d34e461_39321_512x512_fill_lanczos_center_3.png</url>
+      <title>Sense of control</title>
+      <link>https://YujiaLyu.github.io/tag/sense-of-control/</link>
+    </image>
+    
+    <item>
+      <title>Discourse of Control in Newspaper (1979-2019)</title>
+      <link>https://YujiaLyu.github.io/project/control_in_media/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://YujiaLyu.github.io/project/control_in_media/</guid>
+      <description>&lt;div style =&#34;text-align: left&#34;&gt;
+&lt;h3 id=&#34;project-background&#34;&gt;Project Background:&lt;/h3&gt;
+&lt;p&gt;Demonstrating strong control over one’s own life is morally encouraged and sometimes required by American society. Potent as this tenet shapes individual behaviors, it can only remain strong through repeated instantiations in our daily lives. To understand how the value of having control is woven into American’s mainstream individualistic culture, I explore its manifestation in one of the major conduits for conveying social values (albeit its diminishing influence these days) – newspapers. For this project, I gathered 3669 newspaper articles published in the U.S. from 1979 to 2020 that include the phrase “sense of control” through Next Uni (previously known as LexisNexis Academic). By conducting text and network analysis, I will first examine different life aspects or topics associated with the discussion of control, as well as their variation along the time (what aspects or topics become increasingly/decreasingly/no long related to “sense of control”?). Additionally, the usage of the phrase will be examined syntactically to gauge the ways in which different social actors engage with the concept to act on the object of interest, and semantically to explore the attitudinal aspects correlate with the phrase.&lt;/p&gt;
+&lt;h3 id=&#34;project-objectives&#34;&gt;Project Objectives:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Explore topics associated with the “control” discourse by time periods:
+&lt;ul&gt;
+&lt;li&gt;Generate text co-occurrence network by time periods and detect the network community structure to extract topics.&lt;/li&gt;
+&lt;li&gt;Visualize the proportion of texts devoted to each topic by time to demonstrate the topics’ variation in significance related to control as time flows (e.g. Rule et al. 2015).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Investigate the usage of the phrase “sense of control” to detect the major-patterns people use it in navigating through their lives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
